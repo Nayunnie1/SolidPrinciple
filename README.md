@@ -54,3 +54,6 @@ Improve the following codes to implement SOLID principles in OOP.
 
 
 # UML Class Diagram
+![Untitled](https://github.com/Nayunnie1/SolidPrinciple/assets/58744536/4bdc8c67-777e-4e9a-8f86-74abafd74b8c)
+
+
